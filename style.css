@@ -1,0 +1,22 @@
+html, body, #container, #map-container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+}
+
+.center {
+  display: block;
+  margin: auto;
+  padding-top: 100px;
+}
+
+#yearsDropDown {
+  display: block;
+  margin: auto;
+}
